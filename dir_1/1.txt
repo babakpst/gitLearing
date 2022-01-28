@@ -1,2 +1,4 @@
 hello
+Adding new text.
 This is a new line.
+Adding more text.
