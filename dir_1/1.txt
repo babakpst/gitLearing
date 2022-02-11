@@ -1,5 +1,8 @@
 hello
+main ch1
 Adding new text.
+main ch2
 This is a new line.
+main ch3
 Adding more text.
 Let me add another line. 
