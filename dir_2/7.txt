@@ -1,1 +1,2 @@
-this goes to seven
+this goes to seven.
+fix no. 3 and 4.
